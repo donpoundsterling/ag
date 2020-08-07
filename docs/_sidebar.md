@@ -1,5 +1,5 @@
 * [Home](/)
 * [September](September/September.md)
-* [October](guide.md)
-* [November](guide.md)
-* [December](guide.md)
+* [October](October/October.md)
+* [November](November/Novenber.md)
+* [December](December/December.md)
