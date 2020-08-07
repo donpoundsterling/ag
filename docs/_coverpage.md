@@ -6,8 +6,8 @@
 
 > A place Where you can always find your Manual
 
-- Simple and lightweight
-- Always Available
+- Simple to navigate
+- Always Available Even While Offline
 - Portable
 
 [Twitter](#)
