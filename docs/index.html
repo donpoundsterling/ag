@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>AG Manual</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
+  <meta name="description" content="Assemblies of God Nigeria Manual">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
 </head>
@@ -15,8 +15,26 @@
       coverpage: true,
       loadSidebar: true,
       loadNavbar: true,
-      name: '',
-      repo: ''
+      name: 'Ag Manual',
+      repo: '',
+
+      //Footer
+
+       plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer>',
+        '<span><a href="#">agmanual.app  </a>  &copy;2020.</span>',
+        '<span>Contact US <a href="#">Here</a>.</span>',
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
     }
 
       if (typeof navigator.serviceWorker !== 'undefined') {

@@ -1,15 +1,15 @@
 # AG MANUAL
 
-## Table of Content
+## Table of Content (2020)
 
 
-[September](September/September.md)
+- [September](September/September.md)
 
-[October](October/October.md)
+- [October](October/October.md)
 
-[November](November/November.md)
+- [November](November/November.md)
 
-[December](December/December.md)
+- [December](December/December.md)
 
 
 
