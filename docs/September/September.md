@@ -1,7 +1,7 @@
 # September
 
 
-- [First Sunday](first.md)
+- [First Sunday](September/first.md)
 
 - [Second Sunday](second.md)
 
