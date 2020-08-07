@@ -10,5 +10,5 @@
 - Always Available
 - Portable
 
-[Twitter](https://github.com/docsifyjs/docsify/)
+[Twitter](#)
 [Get Started](#Title)
